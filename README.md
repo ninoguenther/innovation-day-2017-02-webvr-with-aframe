@@ -1,6 +1,6 @@
 # WebVR test with [A-FRAME](https://aframe.io/docs/)
 
-![](screenshot.png)
+![](screenshot.jpg)
 
 based on
 
