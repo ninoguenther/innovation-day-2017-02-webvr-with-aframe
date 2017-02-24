@@ -1,5 +1,7 @@
 # WebVR test with [A-FRAME](https://aframe.io/docs/)
 
+![](screenshot.png)
+
 based on
 
 * https://24ways.org/2016/first-steps-in-vr/
